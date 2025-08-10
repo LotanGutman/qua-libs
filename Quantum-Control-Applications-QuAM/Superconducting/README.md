@@ -32,7 +32,7 @@ This folder contains an installable module called `quam_builder`, which provides
 To run the calibration nodes in this folder, you need to install `quam_builder`. During this installation, *all relevant* requirements for running QUA code
 and calibrations through the front-end will also be installed.
 
-To do so, first activate the desired Python environment and navigate to the `quam_builder` directory.
+To do so, first activate the desired Python environment and navigate to the `quam_config` directory.
 Then run the following command to install the package:
 
 ```sh
